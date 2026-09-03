@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ChamaraMC.aternos.me",
-    "port": 34225,
+    "ip": "theanonymous.aternos.me",
+    "port": 20552,
     "version": "1.21.1"
   },
   "position": {
